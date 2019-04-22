@@ -69,6 +69,4 @@ monopoly = {
 	    }
 	  }
 	}
-
-
 end
